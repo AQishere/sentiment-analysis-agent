@@ -1,0 +1,7 @@
+env/
+venv/
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyctraining.1600000.processed.noemoticon.csv 
+.ipynb_checkpoints/ 
